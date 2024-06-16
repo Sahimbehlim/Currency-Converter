@@ -22,3 +22,5 @@ This project is a simple web application that allows users to convert currencies
   - **Exchange Rate API** : Used to fetch the latest exchange rates.
 
 # Live Demo
+
+https://sahimbehlim.github.io/Currency-Converter/
